@@ -1,2 +1,10 @@
 # Pipeline_Management
-Practice some GIT practice
+## Description
+
+This repository is created for practicing git
+
+## Tech used
+- Git
+- version
+- C++
+- java
